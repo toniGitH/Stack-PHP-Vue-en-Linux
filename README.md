@@ -44,7 +44,7 @@ Esta guía contiene instrucciones para ayudar a crear un "stack" de desarrollo m
 
 >[!NOTE]
 >
->**Distribución GNU/Linux:** esta guía se ha creado usando como sistema operativo la distribución de Linux Mint 21.3 con entorno de escritorio Cinnamon.
+>**Distribución GNU/Linux:** esta guía se ha creado usando como sistema operativo la distribución de Linux Mint 21.3 (Virginia) con entorno de escritorio Cinnamon.
 >
 >**Versión de PHP:** la versión de PHP que se utiliza en esta guía es la 8.2.4
 
@@ -133,7 +133,7 @@ Por este motivo, te recomiendo que si lo que necesitas es crearte el stack compl
 
 ## 📦 Instalación de otras aplicaciones en Linux
 
-Aparte de las aplicaciones que configuran el stack principal de PHP-Vue, hay ciertas aplicaciones que puede que te interese conocer cómo se instalan en Linux Mint.
+Aparte de las aplicaciones que configuran el stack principal de PHP, hay ciertas aplicaciones que puede que te interese conocer cómo se instalan en Linux Mint.
 
 <details>
 <summary>Mostrar aplicaciones</summary>
@@ -151,7 +151,7 @@ Aparte de las aplicaciones que configuran el stack principal de PHP-Vue, hay cie
 
 ## 🎨 Personalizaciones básicas de Linux Mint
 
-Este apartado no es necesario para instalar las aplicaciones/tecnologías propias del stack de PHP-Vue, pero he creido interesante añadir una serie de sugerencias para personalizar/configurar nuestro Linux Mint.
+Este apartado no es necesario para instalar las aplicaciones/tecnologías propias del stack de PHP, pero he creido interesante añadir una serie de sugerencias para personalizar/configurar nuestro Linux Mint.
 
 <details>
 <summary>Mostrar contenido</summary>
