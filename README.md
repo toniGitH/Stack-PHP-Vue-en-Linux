@@ -3,7 +3,7 @@
 <br>
 <br>
 
-# Stack PHP+Vue.js en Linux
+# Stack PHP en Linux
 <br>
 
 ## 📖 Tabla de contenidos
