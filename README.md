@@ -52,7 +52,7 @@ Esta guía contiene instrucciones para ayudar a crear un "stack" de desarrollo m
 >
 >**Instalación de PHP:** dado que se trata de crear un stack de desarrollo con PHP, es necesario que tu ordenador tenga instalada alguna versión de PHP, y algunas de las aplicaciones/tecnologías utilizadas (como VSC o Xdebug) estarán relacionadas con dicha instalación. Es **muy importante que tengas en cuenta que para esta guía utilizo la instalación de PHP que viene con la instalación de Xampp**, por lo que si prefieres utilizar una instalación de PHP independiente del paquete Xampp, esta guía tal vez no te sirva.
 
-[🔝](#stack-phpvuejs-en-linux)
+[🔝](#stack-php-en-linux)
 <br>
 <br>
 
@@ -73,7 +73,7 @@ Esta guía contiene instrucciones para ayudar a crear un "stack" de desarrollo m
 >
 >La guía contiene un apartado de "personalización básica de Linux" y otro de "instalación de aplicaciones", que si bien no tienen que ver directamente con la creación del stack de desarrollo, sí es interesante que le eches un vistazo.
 
-[🔝](#stack-phpvuejs-en-linux)
+[🔝](#stack-php-en-linux)
 <br>
 <br>
 
@@ -92,7 +92,7 @@ El número de aplicaciones y tecnologías incluidos en esta guía puede ir creci
 - Vue.js como framework de frontend
 - Docker
 
-[🔝](#stack-phpvuejs-en-linux)
+[🔝](#stack-php-en-linux)
 <br>
 <br>
 
@@ -102,7 +102,7 @@ Los diferentes procedimientos de instalación/configuración contenidos en esta 
 
 Por este motivo, te recomiendo que si lo que necesitas es crearte el stack completo, sigas el orden que te marco en el **Indice de instalaciones**.
 
-[🔝](#stack-phpvuejs-en-linux)
+[🔝](#stack-php-en-linux)
 <br>
 <br>
 
@@ -127,7 +127,7 @@ Por este motivo, te recomiendo que si lo que necesitas es crearte el stack compl
 9. [Docker](/Stack%20principal/09-Docker.md)
 
 
-[🔝](#stack-phpvuejs-en-linux)
+[🔝](#stack-php-en-linux)
 <br>
 <br>
 
@@ -145,7 +145,7 @@ Aparte de las aplicaciones que configuran el stack principal de PHP, hay ciertas
 </details>
 <br>
     
-[🔝](#stack-phpvuejs-en-linux)
+[🔝](#stack-php-en-linux)
 <br>
 <br>
 
@@ -163,7 +163,7 @@ Este apartado no es necesario para instalar las aplicaciones/tecnologías propia
 </details>
 <br>
     
-[🔝](#stack-phpvuejs-en-linux)
+[🔝](#stack-php-en-linux)
 <br>
 <br>
 
