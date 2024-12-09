@@ -1,4 +1,4 @@
-![stack_php_vue_linux](img/bannerStack1.png)
+![stack_php_vue_linux](img/bannerStack2.png)
 
 <br>
 <br>
