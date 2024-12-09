@@ -36,7 +36,7 @@ Esta guía contiene instrucciones para ayudar a crear un "stack" de desarrollo m
 >
 >La guía sólo está pensada para usuarios que ya están familiarizados con las diferentes aplicaciones y tecnologías que se mencionan (PHP, Laravel, Xampp, Xdebug, etc...), pero que no han trabajado aún en sistemas operativos GNU/Linux y necesitan una orientación a la hora de "trasladar" su stack de desarrollo a este sistema operativo.
 
-[🔝](#stack-phpvuejs-en-linux)
+[🔝](#stack-php-en-linux)
 <br>
 <br>
 
